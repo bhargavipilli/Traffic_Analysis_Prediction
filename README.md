@@ -1,0 +1,1 @@
+The goal of this project is the investigate what causes not serious and serious accidents in hopes of preventing and decreasing the number of them. The dataset consists of accident records from the UK over the course of 15+ years. I hope to show the causes of these accidents through visualizations and create an algorithm that can predict the severity of accidents.
